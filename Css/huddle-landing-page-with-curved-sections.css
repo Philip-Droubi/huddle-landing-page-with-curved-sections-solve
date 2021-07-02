@@ -60,7 +60,7 @@ h2,h3,h4{
 .before-D,
 .before-M{
     width:100%;
-    margin-bottom: -6px;
+    margin-bottom: -8px;
 }
 .before-D img,
 .before-M img,
@@ -75,7 +75,7 @@ h2,h3,h4{
 .after-D,
 .after-M{
     width:100%;
-    margin-top: -6px;
+    margin-top: -8px;
     margin-bottom: 150px;
 }
 .after-M{
